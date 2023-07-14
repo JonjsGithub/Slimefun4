@@ -4,8 +4,8 @@ options:
   # Note: When running a stable build auto-updates ONLY update to other stable builds! Perfect eh?
   # You can download the latest stable build here: https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/
 
-  auto-update: true
-  chat-prefix: '&a&lSlimefun 4&7> '
+  auto-update: false
+  chat-prefix: '&3[粘液科技] '
   armor-update-interval: 10
   enable-armor-effects: true
   radiation-update-interval: 1
@@ -15,7 +15,7 @@ options:
   legacy-ore-washer: false
   legacy-dust-washer: false
   legacy-ore-grinder: true
-  language: en
+  language: zh-CN
   enable-translations: true
   log-duplicate-block-entries: true
   burn-players-when-radioactive: true

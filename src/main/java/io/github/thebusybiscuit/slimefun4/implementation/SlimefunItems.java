@@ -34,7 +34,7 @@ public final class SlimefunItems {
     private SlimefunItems() {}
 
     /* Items */
-    public static final SlimefunItemStack PORTABLE_CRAFTER = new SlimefunItemStack("PORTABLE_CRAFTER", HeadTexture.PORTABLE_CRAFTER, "&6Portable Crafter", "&a&oA portable Crafting Table", "", LoreBuilder.RIGHT_CLICK_TO_OPEN);
+    public static final SlimefunItemStack PORTABLE_CRAFTER = new SlimefunItemStack("PORTABLE_CRAFTER", HeadTexture.PORTABLE_CRAFTER, "&6便携工作台", "&a&o一个随身工作台", "", LoreBuilder.RIGHT_CLICK_TO_OPEN);
     public static final SlimefunItemStack PORTABLE_DUSTBIN = new SlimefunItemStack("PORTABLE_DUSTBIN", HeadTexture.TRASH_CAN, "&6Portable Dustbin", "&fYour portable Item-Destroyer", "", LoreBuilder.RIGHT_CLICK_TO_OPEN);
     public static final SlimefunItemStack ENDER_BACKPACK = new SlimefunItemStack("ENDER_BACKPACK", HeadTexture.ENDER_BACKPACK, "&6Ender Backpack", "&a&oA portable Ender Chest", "", LoreBuilder.RIGHT_CLICK_TO_OPEN);
     public static final SlimefunItemStack MAGIC_EYE_OF_ENDER = new SlimefunItemStack("MAGIC_EYE_OF_ENDER", Material.ENDER_EYE, "&6&lMagic Eye of Ender", "&4&lRequires full Ender Armor", "", "&7&eRight Click&7 to shoot an Ender Pearl");
